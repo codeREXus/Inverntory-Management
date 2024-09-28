@@ -1,0 +1,5 @@
+1,Dairy milk,20,989
+2,Kitkat,35,51
+3,MilkyBar,20,0
+4,Chicken Breast,500,1200
+5,pizza base,200,1990
